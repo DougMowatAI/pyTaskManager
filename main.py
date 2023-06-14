@@ -21,7 +21,7 @@ def main():
                 print("Editing Task!")
 
             elif choice == "3":
-                print("Deleting Task")
+                print("Deleting Task!")
 
             elif choice == "4":
                 print("Viewing All Tasks")           
