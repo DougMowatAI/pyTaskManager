@@ -18,7 +18,7 @@ def main():
                 add_new_task()
 
             elif choice == "2":
-                print("Editing Task")
+                print("Editing Task!")
 
             elif choice == "3":
                 print("Deleting Task")
