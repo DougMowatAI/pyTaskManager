@@ -1,3 +1,4 @@
+#Task for mirroring data into the db
 class Task:
     def __init__(self, title, description, due_date):
         self.title = title
